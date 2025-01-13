@@ -2,3 +2,11 @@ div{
     color:darkblue;
     background-color: gold;
 }
+#good{
+    color: darkgreen;
+    background-color: aqua;
+}
+#best{
+    color: turquoise;
+    background-color: darkmagenta;
+}
